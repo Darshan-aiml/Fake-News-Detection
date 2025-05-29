@@ -38,14 +38,7 @@ Each entry includes a news title and label:
 You can try the model live using a simple Gradio interface.  
 Paste your own headline and check if it’s predicted as **REAL** or **FAKE**!
 
-👉 Example Colab public link (update with yours):  
-`https://<your-gradio-link>.gradio.live/`
+👉  `https://1d664f075e389c66d7.gradio.live/`
 
 ---
 
-## 🔧 How to Run Locally
-
-### 1. Clone the repo
-```bash
-git clone https://github.com/<your-username>/Fake-News-Detection.git
-cd Fake-News-Detection
